@@ -7,6 +7,7 @@ This Power BI project analyzes the Steam marketplace to help an aspiring game de
 The final product is a one-page, interactive dashboard designed as an executive summary. Users can select a genre and quickly understand its market position relative to Steam overall.
 
 ![Steam Genre Market Analysis Dashboard](04_images/dashboard.png)
+
 [Download the Power BI dashboard](03_PowerBI/Steam_Genre_Analysis.pbix)
 
 ## Business Question
