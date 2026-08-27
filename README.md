@@ -81,3 +81,7 @@ These results are intended to support further market investigation rather than i
 - `README.md` — project overview, dashboard metrics, features, and key findings
 
 The source dataset is not included in this repository because of its size. It can be downloaded from the [Steam Games Dataset on Kaggle](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset).
+
+## AI Use Disclosure
+
+AI tools were used as a learning and development aid for troubleshooting SQL and DAX, refining documentation, and discussing dashboard design. I reviewed, tested, and adapted all suggestions and am responsible for the final analysis, calculations, and design decisions.
